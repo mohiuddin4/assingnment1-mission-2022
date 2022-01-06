@@ -1,0 +1,134 @@
+body{
+    margin: 0;
+    
+    margin: auto;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.heder-flex{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 50px;
+    
+}
+.heder-color{
+    color: orangered;
+}
+.border-left{
+    
+    border-left: 5px solid orangered;
+    margin-left: 5px;
+    border-radius: 2px;
+}
+.heder-flex div h1{
+    font-size: 50px;
+}
+.heder-img img{
+    width: 50%;
+    margin-left: 50%;
+    margin-bottom: 60px;
+    
+}
+button{
+    padding: 15px 50px;
+    background-color: rgb(255, 153, 0);
+    border-radius: 5px;
+    color: white;
+}
+#mission-2022{
+    text-align: center;
+    font-size: 40px;
+}
+.midel-flex{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    justify-content: space-around;
+    margin-bottom: 100px;
+    
+    
+}
+.midel-box{
+    box-shadow: 5px 5px 10px grey;
+    width: 350px;
+    border-radius: 20px;
+    padding: 20px;
+}
+.midel-img{
+    height: 150px;
+    width: 150px;
+}
+#box-color-1{
+    background-color:azure;
+}
+#box-color-2{
+    background-color: burlywood;
+}
+#box-color-3{
+    background-color: grey;
+}
+.develop{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 100px;
+    
+}
+.img-develop{
+    height: 400px;
+    width: 400px;
+    margin-right: 100px;
+}
+.community{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.img-community{
+    height: 400px;
+    width: 400px;
+    margin-left: 100px;
+}
+#text-position{
+    text-align: center;
+}
+.app-flex{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    justify-content: space-around;
+    margin-bottom: 100px;
+}
+.font-app{
+    font-size: 40px;
+}
+.color-app{
+    color: orangered;
+}
+#img-size{
+    height: 600px;
+    width: 300px;
+    margin-left: 150px;
+    margin-right: 150px;
+    
+    
+}
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+    
+}
+.footer-font{
+    font-size: 40px;
+    color: white;
+}
+.footer-text{
+    color: tomato;
+}
+.footer-p{
+    color: cyan;
+}
